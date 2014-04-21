@@ -10,6 +10,7 @@
 " }
 
 
-set gfn=Meslo\ LG\ M\ for\ Powerline\ 9 " Set font for gvim
+"set gfn=Meslo\ LG\ M\ for\ Powerline\ 9 " Set font for gvim
+set gfn=Menlo\ for\ Powerline\ 9
 set guioptions=             " remove everything
 set guioptions+=m           " add main menu
