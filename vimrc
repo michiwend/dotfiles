@@ -119,9 +119,16 @@
         let g:airline_powerline_fonts=1
         let g:Powerline_symbols='fancy'
     " }
+
+    " NERDTree {
+        nmap <F7> :NERDTreeToggle<CR>
+    " }
+
+    " Tagbar {
+       nmap <F8> :TagbarToggle<CR>
+    " }
+
 " }
-
-
 
 
 " syntax highlightling for arduino projects
